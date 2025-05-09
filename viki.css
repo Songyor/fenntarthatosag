@@ -1,0 +1,86 @@
+body{
+    background-color: lightblue;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    
+}
+
+header {
+    background-color: azure;
+    size: 100px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+    border-color: black;
+    border-radius: 30px;
+    border: 30px;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.container {
+    
+    
+
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(96, 161, 201);
+    text-align: center;
+
+}
+
+.navbar a{
+    text-decoration: none;
+    text-align: center;
+    color: black
+    overflow: hidden;
+}
+
+.navbar a:hover {
+    background-color: rgb(35, 121, 143);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen { max-width: 800px;
+    
